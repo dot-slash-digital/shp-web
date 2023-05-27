@@ -1,0 +1,19 @@
+{
+    "name": "Dr. Susan Hood",
+    "short_name": "Dr. Susan Hood",
+    "icons": [
+        {
+            "src": "/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/android-chrome-384x384.png",
+            "sizes": "384x384",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#e9bf98",
+    "background_color": "#e9bf98",
+    "display": "standalone"
+}
