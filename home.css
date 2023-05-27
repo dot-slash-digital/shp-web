@@ -213,6 +213,10 @@ a {
   flex-direction: column;
 }
 
+.content.navbar .left-column a {
+  text-decoration: none !important;
+}
+
 .content.navbar .right-column {
   display: flex;
   column-gap: 64px;

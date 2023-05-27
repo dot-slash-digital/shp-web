@@ -213,6 +213,10 @@ a {
   flex-direction: column;
 }
 
+.content.navbar .left-column a {
+  text-decoration: none !important;
+}
+
 .content.navbar .right-column {
   display: flex;
   column-gap: 64px;
@@ -417,7 +421,8 @@ a {
   margin-bottom: 48px;
 }
 
-.content.form .inner-wrapper form .input-group input:focus {
+.content.form .inner-wrapper form .input-group input:focus,
+.content.form .inner-wrapper form .input-group textarea:focus {
   outline: 1px solid var(--beige-400);
 }
 
@@ -430,6 +435,7 @@ a {
   transition: 0.3s ease background-color;
   cursor: pointer;
   align-self: flex-start;
+  font-family: inherit;
 }
 
 @media (max-width: 768px) {
