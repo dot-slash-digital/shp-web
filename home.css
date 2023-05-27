@@ -240,7 +240,7 @@ a {
   }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 880px) {
   .section.navbar {
     position: fixed;
     z-index: 5;
@@ -768,7 +768,7 @@ a {
   border-radius: 4px;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 960px) {
   .content.process {
     padding: 92px 0;
   }
