@@ -328,7 +328,7 @@ a {
 /* JUMBOTRON */
 
 .section.jumbotron {
-  background-image: url("images/jumbotron_image.png");
+  background-image: url("images/jumbotron.jpg");
   background-size: cover;
 }
 
@@ -482,7 +482,7 @@ a {
   flex-shrink: 0;
   width: 375px;
   height: 420px;
-  background-image: url("images/susan_portrait.png");
+  background-image: url("images/bio.jpg");
   background-size: cover;
 }
 
@@ -619,15 +619,15 @@ a {
 }
 
 .content.why .columns .column .image.first {
-  background-image: url("images/why_section_image1.png");
+  background-image: url("images/specialties-1.jpg");
 }
 
 .content.why .columns .column .image.second {
-  background-image: url("images/why_section_image2.png");
+  background-image: url("images/specialties-2.jpg");
 }
 
 .content.why .columns .column .image.third {
-  background-image: url("images/why_section_image3.png");
+  background-image: url("images/specialties-3.jpg");
 }
 
 .content.why .columns .column .header-3 {
