@@ -42,7 +42,7 @@ const faqQuestions = [
   {
     question: "Do you offer in-person therapy sessions?",
     answer: [
-      "All sessions are online via Zoom, to provide you with the flexibility and freedom to join therapy from anywhere at any time.",
+      "All sessions are online via Zoom or telephone, to provide you with the flexibility and freedom to join therapy from anywhere at any time.",
     ],
   },
   {
