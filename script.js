@@ -15,14 +15,9 @@ const faqQuestions = [
         "Reduction of stress",
         "Reduction of anxiety/panic symptoms",
         "Improving communication and conflict resolution in relationships",
-        [
-          "Facilitate increased understanding of maladaptive learned behaviors such as:",
-          [
-            "People pleasing",
-            "Improving self-worth",
-            "Reduction of feelings of shame",
-          ],
-        ],
+        "Facilitate increased understanding of maladaptive learned behaviors, such as people pleasing and perfectionism",
+        "Improving self-worth",
+        "Reduction of feelings of shame",
         "Teaching positive/healthy coping strategies versus unhealthy coping strategies (like alcohol, drugs, gambling, etc.)",
       ],
     ],
